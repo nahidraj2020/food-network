@@ -81,6 +81,12 @@ p{
     border-radius: 30px;
    box-shadow: 5px 5px 20px gray;
 }
+.block{
+    width:70%;
+    box-shadow: 5px 5px 20px gray;
+    padding-left:30%;
+    
+}
 
 
 
